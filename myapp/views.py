@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
 # Create your views here.
+
+def add_show(request):
+    return render(request, "addandshow.html")
+
+def base(request):
+    return render(request, "base.html")

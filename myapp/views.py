@@ -1,5 +1,5 @@
 from django.shortcuts import render
-
+from .models import *
 from myapp.forms import Add_Student
 
 # Create your views here.

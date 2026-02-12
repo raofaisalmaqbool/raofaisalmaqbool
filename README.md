@@ -145,15 +145,6 @@ I design and develop **Autonomous AI Systems** capable of:
 
 ---
 
-# 📊 GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raofaisalmaqbool&theme=radical"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
 - Advanced Agentic AI Systems

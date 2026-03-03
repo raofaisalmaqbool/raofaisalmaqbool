@@ -4,7 +4,7 @@
 
 <h1 align="center">Faisal Maqbool</h1>
 <h3 align="center">
-🚀 AI Automation Expert | 🐍 Senior Python Backend Developer | 🤖 Agentic AI Architect Engineer
+🚀 AI Automation Expert | 🐍 Senior Python/Django Web Developer | 🤖 Agentic AI Expert
 </h3>
 
 <p align="center">

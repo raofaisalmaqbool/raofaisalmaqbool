@@ -4,7 +4,7 @@
 
 <h1 align="center">Faisal Maqbool</h1>
 <h3 align="center">
-🚀 AI Automation Engineer | 🤖 Agentic AI Architect | 🐍 Senior Python Backend Developer
+🚀 AI Automation Expert | 🐍 Senior Python Backend Developer | 🤖 Agentic AI Architect Engineer
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 # 🚀 Professional Summary
 
-I am a **Senior Python Developer & AI Engineer with 5+ years of experience** building:
+I am a **Senior Python Developer & AI Expert with 5+ years of experience** building:
 
 - 🤖 Advanced AI Chatbots
 - ⚙️ AI Automation Systems
